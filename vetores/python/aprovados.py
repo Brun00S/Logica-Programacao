@@ -1,5 +1,5 @@
-qtd_alunos = input("Quantos alunos serão digitados? ")
-qtd_alunos = int(qtd_alunos)
+qtd_alunos = int(input("Quantos alunos serão digitados? "))
+
 
 nome = []
 nota1 = []

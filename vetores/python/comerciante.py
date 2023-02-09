@@ -1,5 +1,5 @@
-qtd_produtos = input("Serão digitados dados de quantos produtoa? ")
-qtd_produtos = int(qtd_produtos)
+qtd_produtos = int(input("Serão digitados dados de quantos produtoa? "))
+
 
 total_compra = 0
 total_venda = 0

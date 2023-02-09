@@ -1,5 +1,5 @@
-qta_pessoas = input("Quantas pessoas serão digitadas? ")
-qta_pessoas = int(qta_pessoas)
+qta_pessoas = int(input("Quantas pessoas serão digitadas? "))
+
 
 media_altura_mulheres = 0
 total_altura_mulheres = 0
